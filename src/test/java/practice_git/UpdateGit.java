@@ -6,5 +6,6 @@ public class UpdateGit {
 @Test
 public void update() {
 	System.out.println("updated");
+	//soplnvv//
 }
 }
