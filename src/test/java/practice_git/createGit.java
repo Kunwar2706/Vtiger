@@ -6,6 +6,7 @@ public class createGit {
 	@Test
 	public void git() {
 	System.out.println("---edit git sucessfull--");
+		//syso
 	}
 	
 
