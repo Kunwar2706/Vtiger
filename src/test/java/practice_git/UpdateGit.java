@@ -8,4 +8,10 @@ public void update() {
 	System.out.println("updated");
 	//soplnvv//
 }
+@Test
+public void edit() {
+	System.out.println("edited");
+
+}
+
 }
