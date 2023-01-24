@@ -7,6 +7,7 @@ public class createGit {
 	public void git() {
 	System.out.println("---edit git sucessfull--");
 		//syso
+	System.out.println("hi");
 	}
 	
 
